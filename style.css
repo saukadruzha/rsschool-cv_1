@@ -1,8 +1,26 @@
-<style>
-.boo{
-font-size:20px
+.header{
+    width: 100%;
+    height: 20%;
+    background-color: bisque;
 }
-
-</style>
-
-<h1 class="boo" >bmfdnfbkf </h1>
+.main div{
+    position: relative;
+    width: 100%;
+    height: 70%;
+    background-color:rgb(159, 187, 189);
+}
+.contact_information{
+ position: relative;
+ top:  0px;
+ left: 0px;
+}
+.brief_intro{
+ position: absolute;
+ top:  0px;
+ left: 0px;
+}
+.footer{
+    width: 100%;
+    height: 10%;
+    background-color: rgb(62, 112, 119);
+}
